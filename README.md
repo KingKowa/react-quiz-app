@@ -26,9 +26,31 @@ metrics, making it a comprehensive learning tool.
 - Axios: For handling API requests.
 - Vite: For fast development and building.
 
-## Getting Started
+## Installation and Setup
 
-To get started with this book run index.html in your browser then it will gives you all the functionalities
+### Prerequisites
+
+Node.js and npm installed on your system.
+
+## Steps
+
+- Clone the repository:
+
+git clone https://github.com/your-username/quiz-app.git
+
+- Navigate to the project directory:
+
+cd quiz-app
+
+- Install dependencies:
+
+npm install
+
+- Start the development server:
+
+npm run dev
+
+Open your browser and navigate to http://localhost:3000.
 
 ## Live Demo
 
