@@ -36,7 +36,7 @@ Node.js and npm installed on your system.
 
 - Clone the repository:
 
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/KingKowa/react-quiz-app.git
 
 - Navigate to the project directory:
 
@@ -74,42 +74,22 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Tis is our own project
-- No where else you can find it
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed
 
-## Project Structure
-
-quiz-app/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── QuizStart.jsx
-│ │ ├── QuestionCard.jsx
-│ │ └── ScoreSummary.jsx
-│ ├── api.js
-│ ├── App.jsx
-│ └── index.css
-├── tailwind.config.js
-├── package.json
-└── README.md
-
 ## Key Components
 
-QuizStart: Handles user input for selecting quiz options.
+- QuizStart: Handles user input for selecting quiz options.
 
-QuestionCard: Displays each quiz question and its options.
+- QuestionCard: Displays each quiz question and its options.
 
-ScoreSummary: Shows the user's score at the end of the quiz.
+- ScoreSummary: Shows the user's score at the end of the quiz.
 
-API Integration
+## API Integration
 
-The app fetches data from the Open Trivia Database API using Axios. The API provides various quiz questions based on selected categories and difficulty levels.
+The app fetches data from the Open Trivia Database API using Axios.
+The API provides various quiz questions based on selected categories and difficulty levels.
 
 ## Challenges Faced
 
@@ -121,21 +101,21 @@ The app fetches data from the Open Trivia Database API using Axios. The API prov
 
 ## Key Learnings
 
-Improved understanding of React hooks and state management.
+- Improved understanding of React hooks and state management.
 
-Practical experience with Tailwind CSS for responsive design.
+- Practical experience with Tailwind CSS for responsive design.
 
-Handling API requests and managing different states like loading and errors.
+- Handling API requests and managing different states like loading and errors.
 
 ## Future Improvements
 
-Implement persistent data storage using localStorage.
+- Implement persistent data storage using localStorage.
 
-Add detailed feedback and explanations for quiz answers.
+- Add detailed feedback and explanations for quiz answers.
 
-Explore advanced state management tools like Redux or Zustand.
+- Explore advanced state management tools like Redux or Zustand.
 
-Optimize performance with lazy loading and React optimizations.
+- Optimize performance with lazy loading and React optimizations.
 
 ## Deployment
 
