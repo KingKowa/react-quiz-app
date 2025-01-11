@@ -83,33 +83,7 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./MIT.md) licensed
 
-## Installation and Setup
-
-Prerequisites
-
-Node.js and npm installed on your system.
-
-Steps
-
-Clone the repository:
-
-git clone https://github.com/your-username/quiz-app.git
-
-Navigate to the project directory:
-
-cd quiz-app
-
-Install dependencies:
-
-npm install
-
-Start the development server:
-
-npm run dev
-
-Open your browser and navigate to http://localhost:3000.
-
-Project Structure
+## Project Structure
 
 quiz-app/
 ├── public/
@@ -125,7 +99,7 @@ quiz-app/
 ├── package.json
 └── README.md
 
-Key Components
+## Key Components
 
 QuizStart: Handles user input for selecting quiz options.
 
@@ -137,15 +111,15 @@ API Integration
 
 The app fetches data from the Open Trivia Database API using Axios. The API provides various quiz questions based on selected categories and difficulty levels.
 
-Challenges Faced
+## Challenges Faced
 
-API Integration: Managing asynchronous data fetching and error handling.
+- API Integration: Managing asynchronous data fetching and error handling.
 
-State Management: Handling quiz data, user input, and navigation between components.
+- State Management: Handling quiz data, user input, and navigation between components.
 
-Responsive Design: Ensuring the app looks good on different screen sizes.
+- Responsive Design: Ensuring the app looks good on different screen sizes.
 
-Key Learnings
+## Key Learnings
 
 Improved understanding of React hooks and state management.
 
@@ -153,7 +127,7 @@ Practical experience with Tailwind CSS for responsive design.
 
 Handling API requests and managing different states like loading and errors.
 
-Future Improvements
+## Future Improvements
 
 Implement persistent data storage using localStorage.
 
@@ -163,7 +137,7 @@ Explore advanced state management tools like Redux or Zustand.
 
 Optimize performance with lazy loading and React optimizations.
 
-Deployment
+## Deployment
 
 The app can be deployed using platforms like Vercel or Netlify for easy and free hosting. After building the app with:
 
