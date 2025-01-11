@@ -54,7 +54,7 @@ Open your browser and navigate to http://localhost:3000.
 
 ## Live Demo
 
-[see awesome books live]()
+[see quiz-app live]()
 
 ## Author
 
