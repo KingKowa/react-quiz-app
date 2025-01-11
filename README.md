@@ -40,7 +40,7 @@ git clone https://github.com/KingKowa/react-quiz-app.git
 
 - Navigate to the project directory:
 
-cd quiz-app
+cd react-quiz-app
 
 - Install dependencies:
 
