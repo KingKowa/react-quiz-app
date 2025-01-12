@@ -15,6 +15,7 @@ const QuizStart = ({ onStart }) => {
       onSubmit={handleSubmit}
       className="p-4 max-w-md mx-auto bg-white rounded shadow-md"
     >
+      <h1 className="text-h1">Kowas Quiz App</h1>
       <label className="block mb-2">
         Category:
         <select
