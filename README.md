@@ -54,7 +54,7 @@ Open your browser and navigate to http://localhost:3000.
 
 ## Live Demo
 
-[see quiz-app live]()
+[see quiz-app live](https://kowas-quiz-application.netlify.app/)
 
 ## Author
 
